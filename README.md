@@ -53,7 +53,7 @@ Visualization	Matplotlib, Seaborn
 Model Storage	Pickle (model.pkl)
 
 Clone the repository: 
-https://github.com/abhinavh-77/Online-Payments-Fraud-Detection-using-Machine-Learning
+https://github.com/vijaykonidana28/Online_payments_fraud_detection_using_ML
 
 ⚙️ How to Run the Project:
 
@@ -134,10 +134,10 @@ Model Training: training/Online_payment_Fraud_detection.ipynb
 
 👨‍💻 Developed By
 
-Haridasula Abhinav
+Konidana Vijay Kumar
 Machine Learning Project
 
-📧 Email: habhinavnaidu2005@gmail.com
+📧 Email: vijaykonidana0@gmaiil.com
 
 📜 License
 
